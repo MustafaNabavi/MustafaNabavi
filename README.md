@@ -13,4 +13,5 @@
 * My focus is to help clients with their business by fixing and creating projects of value.
 * I am a self-driven and dependable software engineer, project manager and tester. After getting a computer science degree, I stablished my tech company and experienced 4 years of analytics and business skills. 
 * My plan since founding the company is to create jobs for young generation by producing software products, providing IT & Software services in enternal and external market(getting project from other countries).
-* My company website domain: https://tutiatech.com/ & our portfolio website: https://portfolio.tutiatech.com/
+* My company website domain: <a target="blank" href="https://tutiatech.com"> www.tutiatech.com </a> & our portfolio website: 
+<a target="blank" href="https://portfolio.tutiatech.com/"> www.portfolio.tutiatech.com</a>
