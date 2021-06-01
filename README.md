@@ -9,9 +9,9 @@
 
 ## About me
 
-* I am an entrepreneurial software engineer heavily focusing on web and Mobile App development as CEO of TechTech ICT company(@tutiatechnology).
-* My focus is to help clients with their business by fixing and creating projects of value.
-* I am a self-driven and dependable software engineer, project manager and tester. After getting a computer science degree, I established my tech company and experienced 4 years of analytics and business skills. 
-* My plan since founding the company is to create jobs opportunity for young generation by producing software products, providing IT & Software services in enternal and external market(getting project from other countries).
+* I am an entrepreneurial software engineer heavily focusing on web and Mobile App development as full stack developer and CEO of TechTech ICT company(@tutiatechnology).
+* My focus is to help clients with their business by the best solutions and creating projects of value.
+* I am a self-driven and dependable CEO, software engineer and project manager. After getting a computer science degree, I established my tech company and experienced 4 years of analytics and business skills. 
+* My plan since founding the company is to create jobs opportunity for young generation by producing software products, providing IT & Software services in local and global market(out sourding).
 * My company website domain: <a target="blank" href="https://tutiatech.com"> www.tutiatech.com </a> & our portfolio website: 
 <a target="blank" href="https://portfolio.tutiatech.com/"> www.portfolio.tutiatech.com</a>
