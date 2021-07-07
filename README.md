@@ -5,7 +5,7 @@
 
 |  Front-end   | Back-end   |  Mobile App   | I Managed Porjects   |
 | ----------- | ----------- | ----------- | ----------- |
-|HTML, CSS, BootStrap, TailWind, Material Design, JavaScript|Laravel & Veu.js, Codiegniter, Java, JS(Next.Js)|Flutter & Android|Laravel(13),Codiegniter(3),WP(25), Flutter(4), Android(2), Java(2)|
+|HTML, CSS, BootStrap, TailWind, Material Design, JavaScript|Laravel & Veu.js, Codiegniter, Java, JS,Strapi|Flutter & Android|Laravel(13),Codiegniter(3),CMS(25), Flutter(4), Android(2), Java(2)|
 
 ## About me
 
