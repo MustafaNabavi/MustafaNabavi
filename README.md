@@ -9,7 +9,7 @@
 
 ## About me
 
-* I am an entrepreneurial software engineer heavily focusing on web and Mobile App development as full stack developer .
+* I am an entrepreneurial software engineer heavily focusing on web and Mobile App development as Team-Lead developer .
 * My focus is to help client's business, by providing the best solutions and creating projects of value.
 * I am a self-driven and dependable CEO(TutiaTech ICT), software engineer and project manager. After getting a computer science degree, I established my tech company and experienced 5 years of analytics and business skills. 
 * My plan since founding the company is to create jobs opportunity for young generation by producing software products, providing IT & Software services in local and global market(out sourcing).
