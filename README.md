@@ -11,7 +11,8 @@
 
 * I am an entrepreneurial software engineer heavily focusing on web and Mobile App development as a senior lead developer .
 * My focus is to help client's businesses, by providing the best solutions and creating projects of value.
-* I am a self-driven and dependable CEO(TutiaTech ICT), software engineer, and senior lead developer. After getting a computer science degree, I established my tech company and experienced 5 years of analytics and business skills. 
+* I am a self-driven and dependable CEO(TutiaTech ICT), software engineer, and senior lead developer. 
+* After getting a computer science degree, I established my tech company and experienced 5 years of analytics and business skills. 
 * My plan since founding the company is to create jobs opportunity for the young generation by producing software products, providing IT & Software services in local and global markets (outsourcing).
 * My company website domain: <a target="blank" href="https://tutiatech.com"> www.tutiatech.com </a> & our portfolio website: 
 <a target="blank" href="https://portfolio.tutiatech.com/"> www.portfolio.tutiatech.com</a>
