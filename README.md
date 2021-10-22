@@ -1,5 +1,5 @@
 # Thanks for visiting my Git! 👋  
-## Welcome dear, nice to meet you!
+## Welcome, nice to meet you!
 
 ### Highlights
 
