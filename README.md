@@ -3,15 +3,10 @@
 
 ### Highlights
 
-|  Front-end   | Back-end   |  Mobile App   | I Managed Projects   |
+|  Front-end   | Back-end   |  Toolse   | Software Engineering   |
 | ----------- | ----------- | ----------- | ----------- |
-|HTML, CSS, BootStrap, TailWind, JavaScript(React.js, Next.js, Node.js, Redux), Strapi |Laravel, Codiegniter, Java, JS(Express.js), Strapi CMS |Flutter & ReactNative|Laravel(16), Codiegniter(3), CMS(30), Mobile(12), Java(3), Javascript(15)|
+|HTML, CSS, BootStrap, TailWind CSS , JavaScript, typescript, React.js, Next.js, Redux |  Node.js, Exprees.js, Nest.Js,Strapi CMS, Laravel, Java |Git, GitGub, CI/CD, Teamwork, Slack |Architecture, Design Pattern, Requirement Engineering, OOP, SDLC, Agile Methodology, Algorithms & Data Structure |
 
 ## About me
+Enthusiastic individual Software Engineer with 5 years of professional and team-lead experience Has been working with USA, Canadian, European and Afghan clients with modern technologies JavaScript, Typescript, and PHP as a software engineer and full stack developer to transform their ideas into real products; seeking a Software Engineering & Development opportunity to work on amazing projects to make this world a better place.
 
-* I am an entrepreneurial software engineer heavily focusing on web and Mobile App development as a senior lead developer.
-* My focus is to help clients' businesses, by providing the best solutions and creating projects of value.
-* I am a self-driven and dependable CEO(TutiaTech ICT), software engineer, and senior lead developer. 
-* After getting a computer science degree, I established my tech company and experienced 5 years of analytics and business skills. 
-* My plan since founding the company is to create jobs opportunity for the young generation by producing software products, providing IT & Software services in local and global markets (Outsourcing).
-* My company website domain: <a target="blank" href="https://tutiatech.com"> www.tutiatech.com </a>
