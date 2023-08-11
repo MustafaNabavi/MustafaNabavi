@@ -6,7 +6,7 @@
 
 |  Front-end   | Back-end   |  Toolse   | Software Engineering   |
 | ----------- | ----------- | ----------- | ----------- |
-|HTML, CSS, BootStrap, Tailwind CSS , JavaScript, Typescript, React.js, Next.js, Redux |  Node.js, Exprees.js, Strapi CMS, Laravel, Java |Git, GitGub, CI/CD, Teamwork, Slack, Jira software |Architecture, Design Pattern, Requirement Engineering, OOP, SDLC, Agile Methodology, Algorithms & Data Structure |
+|HTML, CSS, BootStrap, Tailwind CSS , JavaScript, Typescript, React.js, Next.js |  Node.js, Exprees.js, Strapi CMS, Java, Spring boot |Git, Github, CI/CD(Heroku, Vercel & Cpanel), Teamwork, Slack, Jira software |Architecture, Design Pattern, Requirement Engineering, OOP, SDLC, Agile Methodology, Algorithms & Data Structure |
 
 ## About me
 Enthusiastic individual Software Engineer with 5 years of professional and team-lead experience.
