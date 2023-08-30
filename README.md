@@ -10,10 +10,10 @@
 
 ## About me
 Enthusiastic individual Software Engineer with 5 years of professional and team-lead experience.
-Has been working with USA, Canadian, European and Afghan clients with modern technologies JavaScript, Typescript, and PHP as a software engineer and full stack developer to transform their ideas into real products;
- seeking a Software Engineering & Development opportunity to work on amazing projects to improve this world.
+Has been working with USA, Canadian, European and Afghan clients with modern technologies JavaScript, Typescript, and PHP as a software engineer and full stack developer to transform their ideas into natural products;
+ seeking a Software Engineering and development opportunity to work on amazing projects to improve this world.
 ## My achievement
-- Co-Founder & CTO at Tutia Tech Software Development company since 2018 with over 15 employees. read more from www.tutiatech.com
+- Co-founder & CTO at Tutia Tech Software Development company since 2018 with over 15 employees. read more from www.tutiatech.com
 - Developed 4 SAAS products according to the local and global market's needs.
 - 10 top students in the Computer Science faculty of Herat University.
 - has been working on hundreds of small-scale to enterprise-scale projects with 95% customer satisfaction.
